@@ -4,7 +4,7 @@ Making invoicing rock since '05.
 ## Cloning
 SimpleInvoices using gitsubmodules to load the Zend Framework.  
 When cloning the repository use the `--recursive` option to ensure that Zend is retrieved.  
-`git clone --recursive git@github.com:simpleinvoices/simpleinvoices.git`
+`git clone --recursive https://github.com/sbandur84/simpleinvoices`
 
 ## Downloads
 * Bleeding Edge Code: [SI Git Master](http://github.com/simpleinvoices/simpleinvoices/archive/master.zip) (.zip)
